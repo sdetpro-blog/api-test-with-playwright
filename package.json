@@ -9,5 +9,8 @@
   "scripts": {
     "test": "playwright test",
     "report": "playwright show-report"
+  },
+  "dependencies": {
+    "dotenv": "16.0.3"
   }
 }
