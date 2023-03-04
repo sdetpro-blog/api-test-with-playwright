@@ -1,6 +1,6 @@
 const {test, expect} = require('@playwright/test')
 
-test('', async ({request}) => {
+test('should be able to send a PUT request', async ({request}) => {
 
     // Construct data
     const url = "https://jsonplaceholder.typicode.com/posts/1";
