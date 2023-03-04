@@ -1,0 +1,13 @@
+{
+  "name": "playwright-installation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "1.28.1"
+  },
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  }
+}
