@@ -34,6 +34,7 @@ const config = {
     /* Reporter to use. See https://playwright.dev/docs/test-reporters */
     reporter: [
         ['list'],
+        ['./reporter/CustomReporter.js'],
         ['html', {
         open: 'always',
         port: 9999
