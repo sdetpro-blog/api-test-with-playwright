@@ -1,8 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Mon Mar 06 18:45:52 CST 2023","Mon Mar 06 18:45:52 CST 2023","216","chromium","GET_METHOD.spec.js","","","","should be able to send a GET method request",""
-"passed","Mon Mar 06 18:45:52 CST 2023","Mon Mar 06 18:45:52 CST 2023","297","chromium","POST_METHOD_JSON_DATA.spec.js","","","","should be able to create a new post",""
-"passed","Mon Mar 06 18:45:52 CST 2023","Mon Mar 06 18:45:53 CST 2023","554","chromium","POST_METHOD_JSON_DATA.spec.js","","","","should be able to create a multi posts",""
-"passed","Mon Mar 06 18:45:52 CST 2023","Mon Mar 06 18:45:53 CST 2023","902","chromium","CHAINING_REQ.spec.js","","","","should be able to perform CRUD on post type",""
-"passed","Mon Mar 06 18:45:52 CST 2023","Mon Mar 06 18:45:52 CST 2023","239","chromium","PUT_METHOD.spec.js","","","","should be able to send a PUT request",""
-"passed","Mon Mar 06 18:45:52 CST 2023","Mon Mar 06 18:45:52 CST 2023","279","chromium","DELETE_METHOD.spec.js","","","","should be able to send a delete request",""
-"passed","Mon Mar 06 18:45:52 CST 2023","Mon Mar 06 18:45:52 CST 2023","261","chromium","POST_METHOD.spec.js","","","","should be able to create a new post",""
