@@ -1,0 +1,136 @@
+{
+  "9d88936260ccc84ca4ed772856a86e2b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d1a3cb00f80843b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678149952225,
+        "stop" : 1678149953127,
+        "duration" : 902
+      }
+    } ]
+  },
+  "4ff0ec437ede7067ef24895d0f4a78a0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c60433fd761c85b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678149952533,
+        "stop" : 1678149952772,
+        "duration" : 239
+      }
+    } ]
+  },
+  "10cec48b8b441cb4818824696247ccec" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "786b1f4bf692bfb",
+      "status" : "failed",
+      "statusDetails" : "expect(received).toBe(expected) // Object.is equality\n\n- Expected  - 1\n+ Received  + 4\n\n- taolao\n+ consectetur animi nesciunt iure dolore\n+ enim quia ad\n+ veniam autem ut quam aut nobis\n+ et est aut quod aut provident voluptas autem voluptas",
+      "time" : {
+        "start" : 1678149952249,
+        "stop" : 1678149952465,
+        "duration" : 216
+      }
+    } ]
+  },
+  "26f0f5915a00a183d6b19358cb36491e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9b5a4f56b187e028",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678149952234,
+        "stop" : 1678149952531,
+        "duration" : 297
+      }
+    } ]
+  },
+  "9966f46d1d904a67080909d1b4587c61" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7f46e80f3260c07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678149952512,
+        "stop" : 1678149952773,
+        "duration" : 261
+      }
+    } ]
+  },
+  "8cfce465aa3f271c1ee1d71c38a2d9d1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9446484b8203b36b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678149952645,
+        "stop" : 1678149953199,
+        "duration" : 554
+      }
+    } ]
+  },
+  "507c7931509339957039102345dc66d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "428044160c0b9782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1678149952231,
+        "stop" : 1678149952510,
+        "duration" : 279
+      }
+    } ]
+  }
+}

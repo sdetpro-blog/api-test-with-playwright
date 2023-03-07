@@ -1,0 +1,71 @@
+[ {
+  "uid" : "c60433fd761c85b0",
+  "name" : "should be able to send a PUT request",
+  "time" : {
+    "start" : 1678149952533,
+    "stop" : 1678149952772,
+    "duration" : 239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b5a4f56b187e028",
+  "name" : "should be able to create a new post",
+  "time" : {
+    "start" : 1678149952234,
+    "stop" : 1678149952531,
+    "duration" : 297
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "428044160c0b9782",
+  "name" : "should be able to send a delete request",
+  "time" : {
+    "start" : 1678149952231,
+    "stop" : 1678149952510,
+    "duration" : 279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9446484b8203b36b",
+  "name" : "should be able to create a multi posts",
+  "time" : {
+    "start" : 1678149952645,
+    "stop" : 1678149953199,
+    "duration" : 554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "786b1f4bf692bfb",
+  "name" : "should be able to send a GET method request",
+  "time" : {
+    "start" : 1678149952249,
+    "stop" : 1678149952465,
+    "duration" : 216
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f46e80f3260c07",
+  "name" : "should be able to create a new post",
+  "time" : {
+    "start" : 1678149952512,
+    "stop" : 1678149952773,
+    "duration" : 261
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1a3cb00f80843b2",
+  "name" : "should be able to perform CRUD on post type",
+  "time" : {
+    "start" : 1678149952225,
+    "stop" : 1678149953127,
+    "duration" : 902
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

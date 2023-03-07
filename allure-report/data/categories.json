@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expect(received).toBe(expected) // Object.is equality\n\n- Expected  - 1\n+ Received  + 4\n\n- taolao\n+ consectetur animi nesciunt iure dolore\n+ enim quia ad\n+ veniam autem ut quam aut nobis\n+ et est aut quod aut provident voluptas autem voluptas",
+      "children" : [ {
+        "name" : "should be able to send a GET method request",
+        "uid" : "786b1f4bf692bfb",
+        "parentUid" : "93bba543eeea462c0c46c09cba30f636",
+        "status" : "failed",
+        "time" : {
+          "start" : 1678149952249,
+          "stop" : 1678149952465,
+          "duration" : 216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "93bba543eeea462c0c46c09cba30f636"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

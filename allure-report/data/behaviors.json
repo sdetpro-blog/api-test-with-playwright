@@ -1,0 +1,124 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "should be able to perform CRUD on post type",
+    "uid" : "d1a3cb00f80843b2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1678149952225,
+      "stop" : 1678149953127,
+      "duration" : 902
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "should be able to send a delete request",
+    "uid" : "428044160c0b9782",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1678149952231,
+      "stop" : 1678149952510,
+      "duration" : 279
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "should be able to create a new post",
+    "uid" : "9b5a4f56b187e028",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1678149952234,
+      "stop" : 1678149952531,
+      "duration" : 297
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "should be able to send a GET method request",
+    "uid" : "786b1f4bf692bfb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1678149952249,
+      "stop" : 1678149952465,
+      "duration" : 216
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "should be able to create a new post",
+    "uid" : "7f46e80f3260c07",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1678149952512,
+      "stop" : 1678149952773,
+      "duration" : 261
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "should be able to send a PUT request",
+    "uid" : "c60433fd761c85b0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1678149952533,
+      "stop" : 1678149952772,
+      "duration" : 239
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "should be able to create a multi posts",
+    "uid" : "9446484b8203b36b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1678149952645,
+      "stop" : 1678149953199,
+      "duration" : 554
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chromium" ]
+  } ]
+}
