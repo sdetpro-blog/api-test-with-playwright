@@ -9,7 +9,7 @@ class MyReporter {
     }
 
     onTestBegin(test) {
-        console.log(`Starting test ${test.title}`);
+        console.log(`Starting test ${test.title} @${new Date()}`);
     }
 
     onTestEnd(test, result) {
